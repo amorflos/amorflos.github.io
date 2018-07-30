@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[my blog]]></title>
+    <url>%2F2018%2F07%2F28%2Fmy-blog%2F</url>
+    <content type="text"><![CDATA[天哪，我的老伙计，你想知道什么是[翻译腔]，真是见鬼，其实我也不太了解。看在上帝的份上，我们为什么不坐下喝杯咖啡呢？哦，我是说，请那些学过翻译的人给我们普及以一下，我发誓，一定有很多人有话要说。还有什么比听到有趣的观点更令人兴奋的呢？该死，现在还没人来认真回答这个问题，而且我的宝贝儿，这愚蠢的像驴子般的人写出的答案竟然有人赞同，真是太不可思议了！]]></content>
+      <categories>
+        <category>学习分享</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F07%2F28%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post$ hexo new "My New Post" More info: Writing Run server$ hexo server More info: Server Generate static files$ hexo generate More info: Generating Deploy to remote sites$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+  </entry>
+</search>
